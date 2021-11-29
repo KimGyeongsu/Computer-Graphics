@@ -1,4 +1,4 @@
-# 21S_CS380 - Computer Graphics Project
+# 21S_CS380_KAIST - Computer Graphics Project
 
 Undergraduate(http://vclab.kaist.ac.kr/cs380/) based on OpenGL
 
