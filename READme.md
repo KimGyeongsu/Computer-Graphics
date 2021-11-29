@@ -1,4 +1,6 @@
-# 21S_CS380 - Computer Graphics Project(Undergraduate - http://vclab.kaist.ac.kr/cs380/) based on OpenGL
+# 21S_CS380 - Computer Graphics Project
+
+Undergraduate(http://vclab.kaist.ac.kr/cs380/) based on OpenGL
 
 ## HW2 - 3D Coordinate Systems
 
